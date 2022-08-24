@@ -1,0 +1,53 @@
+[
+    {
+        "id": 220624,
+        "imgPath": "https://thumbnails.crossfit.com/mainsite/w20220624/thumbnail/wod-tips_220624_th2.jpg",
+        "imgAlt": "Friday 220624 image",
+        "name": "Friday 220624",
+
+        "proLevel": {
+            "description": "Complete as many rounds as possible in 20 minutes of:",
+            "exercises": [
+                { "count": "12", "name": "handstand push-ups" },
+                { "count": "8", "name": "bar muscle-ups" },
+                { "count": "4", "name": "power cleans" }
+            ],
+            "genders": [
+                {"gender": "♀", "weight": 135, "unit": "lb"},
+                {"gender": "♂", "weight": 135, "unit": "lb"}
+            ],
+            "additionally": "Post rounds completed to comments."
+        },
+
+        "scaling": "Scaling:",
+        "scalingDescription": "Modify the movements and reduce the loading so you can keep moving.",
+
+        "intermediateLevel": {
+            "intermediateOptionTitle": "Intermediate Option:",
+            "intermediateDescription": "Complete as many rounds as possible in 20 minutes of:",
+            "intermediateExercises": [
+                { "count": "8", "name": "handstand push-ups" },
+                { "count": "6", "name": "bar muscle-ups" },
+                { "count": "4", "name": "power cleans" }
+            ],
+            "intermediateGenders": [
+                {"gender": "♀", "weight": 115, "unit": "lb"},
+                {"gender": "♂", "weight": 175, "unit": "lb"}
+            ]
+        },
+
+        "beginnerLevel": {
+            "beginnerOptionTitle": "Beginner Option:",
+            "beginnerDescription": "Complete as many rounds as possible in 20 minutes of:",
+            "beginnerExercises": [
+                { "count": "12", "name": "push-ups" },
+                { "count": "8", "name": "assisted pull-ups" },
+                { "count": "4", "name": "power cleans" }
+            ],
+            "beginnerGenders": [
+                {"gender": "♀", "weight": 45, "unit": "lb"},
+                {"gender": "♂", "weight": 65, "unit": "lb"}
+            ]
+        }
+    }
+]
