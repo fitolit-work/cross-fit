@@ -1,4 +1,4 @@
-import CompletedCounter from "./CompletedCounter";
+import CompletedCounter from "./counterEx/CompletedCounter";
 import {useState} from "react";
 
 export default function ExerciseIntermediateLevel({data, storageId}) {
